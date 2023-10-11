@@ -5,84 +5,96 @@
         "name": "Smartphone",
         "price": 59999,
         "description": "Explore the cutting-edge world of mobile technology with this flagship smartphone. Featuring a powerful 108MP camera and 5G support, it's designed to capture life's moments in stunning detail.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/186/186239.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/186/186239.png",
+        "inCart": false,
       },
       {
         "id": 2,
         "name": "Tshirts",
         "price": 500,
         "description": " Elevate your style with these comfortable and versatile t-shirts. Crafted from high-quality materials, they offer a perfect blend of fashion and comfort, making them ideal for any casual occasion.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/4715/4715310.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/4715/4715310.png",
+        "inCart": false,
       },
       {
         "id": 3,
         "name": "Washing Machine",
         "price": 54999,
         "description": "Simplify your laundry routine with this advanced washing machine. With immersive 4K HDR TV and Android TV OS, it ensures that your clothes are clean and fresh with ease and convenience.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/698/698703.png"
+        "imgURL":"https://cdn-icons-png.flaticon.com/128/698/698703.png",
+        "inCart":false,
       },
       {
         "id": 4,
         "name": "Refrigerator",
         "price": 49990,
         "description": "Keep your food and beverages fresh with this high-quality refrigerator. Its spacious interior and efficient cooling system make it an excellent choice for households of all sizes.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/3953/3953425.png"
+        "imgURL":"https://cdn-icons-png.flaticon.com/128/3953/3953425.png",
+        "inCart":false,
       },
       {
         "id": 5,
         "name": "Smart TV",
         "price": 29990,
         "description": "Immerse yourself in a world of entertainment with this premium smart TV. Its stunning 4K display and Android TV features offer a cinematic experience right in your living room.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/7733/7733346.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/7733/7733346.png",
+        "inCart": false,
       },
       {
         "id": 6,
         "name": "Exhaust Fan",
         "price": 999,
         "description": "Enhance the air quality in your home with this budget-friendly exhaust fan. Designed to provide efficient ventilation, it ensures a healthier and more comfortable living environment.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/4732/4732653.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/4732/4732653.png",
+        "inCart": false,
       },
       {
         "id": 7,
         "name": "Air Conditioner",
         "price": 56990,
         "description": "Stay cool and comfortable during scorching summers with this versatile air conditioner. Its Wi-Fi and Bluetooth connectivity options allow you to control the temperature with ease.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/863/863960.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/863/863960.png",
+        "inCart": false,
       },
       {
         "id": 8,
         "name": "Camera",
         "price": 54990,
         "description": "Capture breathtaking moments with this powerful DSLR camera. Equipped with a range of features, it's perfect for photography enthusiasts who want to take their skills to the next level.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/1042/1042339.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/1042/1042339.png",
+        "inCart": false,
       },
       {
         "id": 9,
         "name": "Web Cam",
         "price": 2490,
         "description": "Stay connected with friends and colleagues through video calls with this reliable webcam. Its high-quality video and audio make virtual meetings and chats more immersive and engaging.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/5978/5978146.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/5978/5978146.png",
+        "inCart": false,
       },
       {
         "id": 10,
         "name": "Books",
         "price": 97990,
         "description": "Dive into the world of knowledge and imagination with a selection of captivating books. Whether you enjoy fiction, non-fiction, or educational literature, there's something for every reader.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/3389/3389081.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/3389/3389081.png",
+        "inCart": false,
       },
       {
         "id": 11,
-        "name": "Playstation",
+        "name": "PlayStation",
         "price": 97990,
-        "description": "Immerse yourself in the world of gaming with this premium PlayStation console. It offers a wide range of gaming experiences and entertainment options, delivering hours of fun and excitement.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/65/65877.png"
+        "description": "Immerse yourself in the gaming world with this premium PlayStation console. It offers a wide range of gaming experiences and entertainment options, delivering hours of fun and excitement.",
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/65/65877.png",
+        "inCart": false,
       },
       {
         "id": 12,
         "name": "Laptop",
         "price": 97990,
         "description": "Experience top-tier performance and portability with this premium ultrabook. With an InfinityEdge display and powerful hardware, it's a versatile choice for work and entertainment.",
-        "imgURL":"https://cdn-icons-png.flaticon.com/128/2888/2888701.png"
+        "imgURL": "https://cdn-icons-png.flaticon.com/128/2888/2888701.png",
+        "inCart": false,
       }
        ]
   }
