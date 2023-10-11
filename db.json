@@ -1,0 +1,170 @@
+{
+   "products": [{
+    "id": 1,
+    "name": "Product 1",
+    "price": 336,
+    "image": "https://picsum.photos/200/300?random=1",
+    "description": "This is a description for Product 1."
+    },
+    {
+    "id": 2,
+    "name": "Product 2",
+    "price": 148,
+    "image": "https://picsum.photos/200/300?random=2",
+    "description": "This is a description for Product 2."
+    },
+    {
+    "id": 3,
+    "name": "Product 3",
+    "price": 329,
+    "image": "https://picsum.photos/200/300?random=3",
+    "description": "This is a description for Product 3."
+    },
+    {
+    "id": 4,
+    "name": "Product 4",
+    "price": 482,
+    "image": "https://picsum.photos/200/300?random=4",
+    "description": "This is a description for Product 4."
+    },
+    {
+    "id": 5,
+    "name": "Product 5",
+    "price": 224,
+    "image": "https://picsum.photos/200/300?random=5",
+    "description": "This is a description for Product 5."
+    },
+    {
+    "id": 6,
+    "name": "Product 6",
+    "price": 251,
+    "image": "https://picsum.photos/200/300?random=6",
+    "description": "This is a description for Product 6."
+    },
+    {
+    "id": 7,
+    "name": "Product 7",
+    "price": 46,
+    "image": "https://picsum.photos/200/300?random=7",
+    "description": "This is a description for Product 7."
+    },
+    {
+    "id": 8,
+    "name": "Product 8",
+    "price": 171,
+    "image": "https://picsum.photos/200/300?random=8",
+    "description": "This is a description for Product 8."
+    },
+    {
+    "id": 9,
+    "name": "Product 9",
+    "price": 28,
+    "image": "https://picsum.photos/200/300?random=9",
+    "description": "This is a description for Product 9."
+    },
+    {
+    "id": 10,
+    "name": "Product 10",
+    "price": 280,
+    "image": "https://picsum.photos/200/300?random=10",
+    "description": "This is a description for Product 10."
+    },
+    {
+    "id": 11,
+    "name": "Product 11",
+    "price": 16,
+    "image": "https://picsum.photos/200/300?random=11",
+    "description": "This is a description for Product 11."
+    },
+    {
+    "id": 12,
+    "name": "Product 12",
+    "price": 47,
+    "image": "https://picsum.photos/200/300?random=12",
+    "description": "This is a description for Product 12."
+    },
+    {
+    "id": 13,
+    "name": "Product 13",
+    "price": 325,
+    "image": "https://picsum.photos/200/300?random=13",
+    "description": "This is a description for Product 13."
+    },
+    {
+    "id": 14,
+    "name": "Product 14",
+    "price": 63,
+    "image": "https://picsum.photos/200/300?random=14",
+    "description": "This is a description for Product 14."
+    },
+    {
+    "id": 15,
+    "name": "Product 15",
+    "price": 482,
+    "image": "https://picsum.photos/200/300?random=15",
+    "description": "This is a description for Product 15."
+    },
+    {
+    "id": 16,
+    "name": "Product 16",
+    "price": 77,
+    "image": "https://picsum.photos/200/300?random=16",
+    "description": "This is a description for Product 16."
+    },
+    {
+    "id": 17,
+    "name": "Product 17",
+    "price": 174,
+    "image": "https://picsum.photos/200/300?random=17",
+    "description": "This is a description for Product 17."
+    },
+    {
+    "id": 18,
+    "name": "Product 18",
+    "price": 167,
+    "image": "https://picsum.photos/200/300?random=18",
+    "description": "This is a description for Product 18."
+    },
+    {
+    "id": 19,
+    "name": "Product 19",
+    "price": 474,
+    "image": "https://picsum.photos/200/300?random=19",
+    "description": "This is a description for Product 19."
+    },
+    {
+    "id": 20,
+    "name": "Product 20",
+    "price": 116,
+    "image": "https://picsum.photos/200/300?random=20",
+    "description": "This is a description for Product 20."
+    },
+    {
+    "id": 21,
+    "name": "Product 21",
+    "price": 387,
+    "image": "https://picsum.photos/200/300?random=21",
+    "description": "This is a description for Product 21."
+    },
+    {
+    "id": 22,
+    "name": "Product 22",
+    "price": 37,
+    "image": "https://picsum.photos/200/300?random=22",
+    "description": "This is a description for Product 22."
+    },
+    {
+    "id": 23,
+    "name": "Product 23",
+    "price": 270,
+    "image": "https://picsum.photos/200/300?random=23",
+    "description": "This is a description for Product 23."
+    },
+    {
+    "id": 24,
+    "name": "Product 24",
+    "price": 337,
+    "image": "https://picsum.photos/200/300?random=24",
+    "description": "This is a description for Product 24."
+    }]
+}
